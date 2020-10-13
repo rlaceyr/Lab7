@@ -34,7 +34,7 @@ Instructions:
                
                After the rest of the class has arrived at this point then all names should be listed by the running program.
                Update your local repository and it should pull in the changes that other students have made.
-                    git fetch
+                    git pull
                
 */
 
