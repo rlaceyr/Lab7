@@ -38,7 +38,7 @@ Instructions:
                
 */
 
-//        System.out.println("Judy");
+        System.out.println("Judy");
 //        System.out.println("Landon");
         System.out.println("TJ");
 //        System.out.println("Imer");
@@ -52,7 +52,7 @@ Instructions:
 //        System.out.println("Lacey");
         System.out.println("Walker");
 //        System.out.println("Chicco");
-        System.out.println("Ilia");
+//        System.out.println("Ilia");
 //        System.out.println("Jose");
     }
 }
