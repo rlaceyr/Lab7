@@ -38,8 +38,8 @@ Instructions:
                
 */
 
-//        System.out.println("Judy");
         System.out.println("Landon");
+        System.out.println("Judy");
         System.out.println("TJ");
 //        System.out.println("Imer");
 //        System.out.println("Conrad");
@@ -47,12 +47,12 @@ Instructions:
         System.out.println("Kyle");
 //        System.out.println("Cesar");
         System.out.println("Paul");
-//        System.out.println("Oz");
+        System.out.println("Oz");
 //        System.out.println("Brent");
 //        System.out.println("Lacey");
         System.out.println("Walker");
 //        System.out.println("Chicco");
-        System.out.println("Ilia");
+//        System.out.println("Ilia");
 //        System.out.println("Jose");
     }
 }
