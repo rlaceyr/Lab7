@@ -4,7 +4,7 @@
 public class Lab7 {
     public static void main(String[] args) {
         System.out.println("IT 6780 - Lab 7");
-        System.out.println("The IT 6780 class is filled with many awesome Omega steal programmers like HOLY COW MAN!.  Some of them are:");
+        System.out.println("The IT 6780 class is filled with many awesome programmers.  Some of them are:");
 
 /*
 
@@ -38,8 +38,8 @@ Instructions:
                
 */
 
+        System.out.println("Landon");
         System.out.println("Judy");
-//        System.out.println("Landon");
         System.out.println("TJ");
 //        System.out.println("Imer");
 //        System.out.println("Conrad");
