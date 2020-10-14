@@ -47,7 +47,7 @@ Instructions:
         System.out.println("Kyle");
 //        System.out.println("Cesar");
         System.out.println("Paul");
-//        System.out.println("Oz");
+        System.out.println("Oz");
 //        System.out.println("Brent");
 //        System.out.println("Lacey");
         System.out.println("Walker");
